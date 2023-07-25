@@ -1,0 +1,37 @@
+{
+	"id": 401,
+	"name": "Zombey",
+	"description": "Oldschool German Youtube Star,\nThe artwork of the \"Zimble man\" was created during his livestream on the 20th of July.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@Zombey",
+			"https://www.twitch.tv/zombey"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-177,
+				-367
+			],
+			[
+				-177,
+				-310
+			],
+			[
+				-165,
+				-310
+			],
+			[
+				-165,
+				-367
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-171,
+			-338
+		]
+	}
+}
