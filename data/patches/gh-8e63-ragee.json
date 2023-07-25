@@ -1,0 +1,37 @@
+{
+	"id": -1,
+	"name": "Ragee",
+	"description": "A german Streamer/youtuber that tried too have his name on r/place ",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/rageelp",
+			"https://www.youtube.com/@Rageee"
+		]
+	},
+	"path": {
+		"12-15": [
+			[
+				-114,
+				-497
+			],
+			[
+				-114,
+				-491
+			],
+			[
+				-93,
+				-491
+			],
+			[
+				-93,
+				-497
+			]
+		]
+	},
+	"center": {
+		"12-15": [
+			-103,
+			-494
+		]
+	}
+}
